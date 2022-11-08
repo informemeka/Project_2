@@ -114,7 +114,7 @@ sudo echo 'Hello LEMP from hostname' $(curl -s http://169.254.169.254/latest/met
 
 Tested using my public IP:80 and see result below:
 
-![nginx web](./images/test_new_website.jpg)
+![nginx web](./images/Test_new_website.jpg)
 
 
 **STEP 5 – TESTING PHP WITH NGINX**
